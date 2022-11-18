@@ -9,5 +9,9 @@ The **READFake** dataset contains 2,136 facial images in high and low resolution
   
 The **READFake** dataset contains the 4272 annotated **CSH segmentation masks** for 2136 facial images (two eyes per facial image). In addition, 1779 images (83.30%) are labeled as indoor, and 357 images (16.70%) are labeled as outdoor. Furthermore it contains different LL classes (1414 mid images (66.20%), 438 low images (20.50%), and 284 high images (13.30%)).
 
+## Dataset Download: 
 
+We have released the **READFake** dataset, including facial RGB images, the Body Specular Highlight (BSH) region annotation, the Corneal Specular Highlights (CSH) region annotation, the CSH images, and the The Image Annotation.
+
+### Download links:
 
