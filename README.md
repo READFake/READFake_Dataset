@@ -9,7 +9,7 @@ The **READFake** dataset contains 2,136 facial images in high and low resolution
   2. **The Corneal Specular Highlights (CSH) region annotation:** to define the shapes and locations of CSH and classifies CSHs into right-reflection and left-reflection classes. 
   3. **The Image Annotation:** to identify the **image label (either Real or Fake)** , along with the **facial image environmental parameters (FIEP)**, including **indoor or outdoor (IO), light level (LL), and light strength (LS)**. 
   
-The **READFake** dataset contains the 4272 annotated **CSH segmentation masks** for 2136 facial images (two eyes per facial image). In addition, 1779 images (83.30%) are labeled as indoor, and 357 images (16.70%) are labeled as outdoor. Furthermore it contains different LL classes (1414 mid images (66.20%), 438 low images (20.50%), and 284 high images (13.30%)).
+The **READFake** dataset contains the 4272 annotated **CSH segmentation masks** for 2136 facial images (two eyes per facial image). In addition, 1779 images (83.30%) are labeled as indoor, and 357 images (16.70%) are labeled as outdoor. Furthermore, it contains different LL classes, such as (1414 mid images (66.20%), 438 low images (20.50%), and 284 high images (13.30%)).
 
 ## Dataset Download: 
 
