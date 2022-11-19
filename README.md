@@ -14,7 +14,7 @@ The **READFake** dataset contains the 4272 annotated **CSH segmentation masks** 
 We have released the **READFake** dataset, including facial RGB images, the Body Specular Highlight (BSH) region annotation, the Corneal Specular Highlights (CSH) region annotation, the CSH images, and the The Image Annotation.
 
 ### Download links: 
-[READFake_Dataset_CVPR2023.zip (930.4 MB)](https://github.com/READFake/READFake_Dataset), to download full dataset.
+[READFake_Dataset_CVPR2023.zip (930.4 MB)](https://drive.google.com/file/d/1HQr1weaDKohv4oRZFhzSQMw8bX3ZiQQQ/view?usp=sharing), to download full dataset.
 
 
 
